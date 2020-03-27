@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "dynamic-rendering-app",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
