@@ -41,7 +41,7 @@ Test the following websites on the [Mobile Friendly](https://search.google.com/t
 [https://dynamic-rendering-app.web.app/](https://dynamic-rendering-app.web.app/)
 
 - **Dynamic-rendered Website**  
-[https://rendertron-dev.herokuapp.com/](https://rendertron-dev.herokuapp.com/)
+[https://rendertron-app.herokuapp.com/](https://rendertron-app.herokuapp.com/)
 
 
 
