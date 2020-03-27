@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-const apiUrl = 'https://api.thecatapi.com/v1';
+const apiUrl = 'https://api.thecatapi.com/v1/images/search?limit=50';
 const tpl = document.querySelector('template').content;
 const container = document.querySelector('ul');
 
